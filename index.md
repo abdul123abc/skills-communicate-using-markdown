@@ -7,3 +7,6 @@ Completed my header lesson
 for i in range(10)
   print(i**i)
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
